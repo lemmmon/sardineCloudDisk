@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sardineCloud:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ada5bb6-f3f7-4ecf-9d6d-a712246f4010" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/agent/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resources</find>
+      <find>postgresql</find>
+      <find>packaging</find>
+      <find>annot get heartbeat from 1.1.1</find>
+      <find>start init heartbeat info</find>
+      <find>netty</find>
+      <find>listenPort</find>
+      <find>ot get heartbeat fro</find>
+      <find>status is abnorma</find>
+      <find>cannot get heartbeat</find>
+      <find>not get heartbeat fr</find>
+      <find>PDATE INTO NODE_</find>
+      <find>internal ex</find>
+      <find>userDaoManager</find>
+      <find>f4j-log4j1</find>
+      <find>@Log4j</find>
+      <find>@Log4j2</find>
+      <find>Sl</find>
+      <find>Slf4j</find>
+      <find>slf</find>
+      <find>start netty ...</find>
+      <find>@Slf4j</find>
+      <find>/api/v0/session</find>
+      <find>log</find>
+      <find>/session</find>
+      <find>LoginService</find>
+      <find>upload</find>
+      <find>/sess</find>
+      <find>WebMvcConfigurer</find>
+      <find>todo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/manager/daoManager/DiskInfoDaoManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/dao/DiskInfoDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/dao/NodeDiskInfoDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/dao/NodeDetailInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/manager/daoManager/NodeDetailInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/bean/DiskInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/thread/HeatbeatMonitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/Enum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/HealthStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/Initializer.java" />
+        <option value="$PROJECT_DIR$/agent/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/init/Initializer.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/netty/heartbeat/AcceptorIdleStateTrigger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/config/ScheduledConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/netty/NettyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/netty/KpClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/netty/KpClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/netty/ClientChannelInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/netty/ServerChannelInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/bean/NodeDetailInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/netty/KpServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/dao/NodeDetailInfoDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/config/sardineConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/config/SardineConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/service/RepoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/ApplicationContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/controller/UploadController.java" />
+        <option value="$PROJECT_DIR$/../server.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/filter/PermissionFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/SardineApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/netty/KpServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/controller/PermissionController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/thread/NettyService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/bean/Response.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/ExceptionHandle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/Util.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/thread/HeartbeatMonitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/manager/daoManager/NodeDetailInfoManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/manager/daoManager/UserDaoManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/service/LoginService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/context/UserContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/interceptor/AuthenticationInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/config/InterceptorConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/service/RepoDispatchService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/common/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sardine/service/ImageRepoService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\工程\SpringPrj\repo" />
+        <option name="userSettingsFile" value="D:\工程\SpringPrj\repo\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sardine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sardine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sardine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="410" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="daoManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sardine" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sardineCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sardineCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1645963909881" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15893386" />
+    <property name="project.structure.side.proportion" value="0.20673636" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sardine.config" />
+      <recent name="com.sardine" />
+      <recent name="com" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\sardineCloud\src\main\java\com\sardine\netty" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://124.221.90.114:6098" />
+          <option name="urlPath" value="/api/v0/session" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="yinghao" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://124.221.90.114:6098" />
+          <option name="urlPath" value="/api/v0/session" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="yinghao" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/v0/session" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="yinghao" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/v0/session" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="yinghao" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SardineApplication">
+    <configuration name="SardineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sardineCloud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sardine.SardineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.75" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.75" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:\Program Files\Java\jdk1.8.0_191\jre" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://127.0.0.1:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="sardine">
+          <settings>
+            <option name="CONTEXT_PATH" value="/sardine" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_75_sardineCloud" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50877" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.75" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_sardineCloud" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50877" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SardineApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.75" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ada5bb6-f3f7-4ecf-9d6d-a712246f4010" name="Default Changelist" comment="" />
+      <created>1644717751526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644717751526</updated>
+      <workItem from="1644717752922" duration="10632000" />
+      <workItem from="1644736129780" duration="488000" />
+      <workItem from="1644924351316" duration="11006000" />
+      <workItem from="1645016480530" duration="6901000" />
+      <workItem from="1645108829933" duration="1549000" />
+      <workItem from="1645186813220" duration="9780000" />
+      <workItem from="1645236453699" duration="5335000" />
+      <workItem from="1645244592977" duration="246000" />
+      <workItem from="1645284962079" duration="1836000" />
+      <workItem from="1645286868947" duration="3536000" />
+      <workItem from="1645325525576" duration="522000" />
+      <workItem from="1645326117708" duration="3558000" />
+      <workItem from="1645332180164" duration="772000" />
+      <workItem from="1645338944052" duration="240000" />
+      <workItem from="1645339219907" duration="4273000" />
+      <workItem from="1645347348065" duration="9733000" />
+      <workItem from="1645537907661" duration="2649000" />
+      <workItem from="1645621558099" duration="7548000" />
+      <workItem from="1645629594667" duration="119000" />
+      <workItem from="1645792373746" duration="6180000" />
+      <workItem from="1645875303241" duration="9809000" />
+      <workItem from="1645889143296" duration="4491000" />
+      <workItem from="1645927276664" duration="5048000" />
+      <workItem from="1645942847606" duration="9092000" />
+      <workItem from="1645958879909" duration="4789000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一版">
+      <created>1645629659358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645629659358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="传输文件到主节点进行缓存">
+      <created>1645802583733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645802583733</updated>
+    </task>
+    <task id="LOCAL-00003" summary="无日志可运行版本">
+      <created>1645886318667</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645886318667</updated>
+    </task>
+    <task id="LOCAL-00004" summary="有日志可运行版本&#10;无netty">
+      <created>1645927902728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645927902728</updated>
+    </task>
+    <task id="LOCAL-00005" summary="文件上传逻辑优化">
+      <created>1645962522510</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645962522510</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120132000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28906775" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46648043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25977653" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32914925" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32914925" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.424581" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.19785379" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3568075" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46648043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43575418" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32914925" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32914925" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.424581" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.19785379" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一版" />
+    <MESSAGE value="传输文件到主节点进行缓存" />
+    <MESSAGE value="无日志可运行版本" />
+    <MESSAGE value="有日志可运行版本&#10;无netty" />
+    <MESSAGE value="文件上传逻辑优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件上传逻辑优化" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sardine/netty/heartbeat/AcceptorIdleStateTrigger.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sardine/netty/heartbeat/AcceptorIdleStateTrigger.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sardine/netty/heartbeat/AcceptorIdleStateTrigger.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sardine/service/ImageRepoService.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sardine/controller/PermissionController.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sardine/service/LoginService.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="userInDao.getPassword()" language="JAVA" />
+        <watch expression="user.getPassword()" language="JAVA" />
+        <watch expression="userInDao.getPassword().equals(user.getPassword())" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>userInDao.getPassword().equals(user.getPassword())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>user.getPassword()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userInDao.getPassword()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/工程/SpringPrj/repo/org/springframework/spring-context/5.3.15/spring-context-5.3.15.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/工程/SpringPrj/repo/io/netty/netty-handler/4.1.73.Final/netty-handler-4.1.73.Final.jar!/io/netty/handler/timeout/IdleStateHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/netty/heartbeat/AcceptorIdleStateTrigger.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/netty/NettyServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/netty/KpClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/netty/KpClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/netty/ClientChannelInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/bean/NodeDetailInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/工程/SpringPrj/repo/io/netty/netty-transport/4.1.73.Final/netty-transport-4.1.73.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/dao/NodeDetailInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/工程/SpringPrj/repo/org/springframework/spring-web/5.3.15/spring-web-5.3.15.jar!/org/springframework/web/multipart/commons/CommonsMultipartFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+          <folding>
+            <element signature="e#2011#2012#0" expanded="true" />
+            <element signature="e#2064#2065#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/service/RepoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/FileUtil.java" />
+    <entry file="jar://D:/工程/SpringPrj/repo/org/springframework/spring-web/5.3.15/spring-web-5.3.15.jar!/org/springframework/web/multipart/MultipartFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/ApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/HealthStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/netty/ServerChannelInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/netty/KpServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.sardine:sardine:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.sardine:sardine:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.sardine:sardine:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3/org.springframework.boot:spring-boot:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3/org.springframework.boot:spring-boot-autoconfigure:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3/org.springframework.boot:spring-boot-starter-logging:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3/org.springframework.boot:spring-boot-starter-logging:jar:2.6.3/ch.qos.logback:logback-classic:jar:1.2.10</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3/org.springframework.boot:spring-boot-starter-logging:jar:2.6.3/ch.qos.logback:logback-classic:jar:1.2.10/ch.qos.logback:logback-core:jar:1.2.10</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3/org.springframework.boot:spring-boot-starter-logging:jar:2.6.3/org.apache.logging.log4j:log4j-to-slf4j:jar:2.17.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3/org.springframework.boot:spring-boot-starter-logging:jar:2.6.3/org.apache.logging.log4j:log4j-to-slf4j:jar:2.17.1/org.apache.logging.log4j:log4j-api:jar:2.17.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3/org.springframework.boot:spring-boot-starter-logging:jar:2.6.3/org.slf4j:jul-to-slf4j:jar:1.7.33</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter:jar:2.6.3/org.yaml:snakeyaml:jar:1.29</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter-json:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter-json:jar:2.6.3/com.fasterxml.jackson.core:jackson-databind:jar:2.13.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter-json:jar:2.6.3/com.fasterxml.jackson.core:jackson-databind:jar:2.13.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.13.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter-json:jar:2.6.3/com.fasterxml.jackson.core:jackson-databind:jar:2.13.1/com.fasterxml.jackson.core:jackson-core:jar:2.13.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter-json:jar:2.6.3/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.13.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter-json:jar:2.6.3/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.13.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework.boot:spring-boot-starter-json:jar:2.6.3/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.13.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework:spring-web:jar:5.3.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework:spring-web:jar:5.3.15/org.springframework:spring-beans:jar:5.3.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework:spring-webmvc:jar:5.3.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework:spring-webmvc:jar:5.3.15/org.springframework:spring-aop:jar:5.3.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework:spring-webmvc:jar:5.3.15/org.springframework:spring-context:jar:5.3.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.6.3/org.springframework:spring-webmvc:jar:5.3.15/org.springframework:spring-expression:jar:5.3.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.6.3/jakarta.annotation:jakarta.annotation-api:jar:1.3.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.6.3/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.56</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.6.3/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.56</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-tomcat:jar:2.6.3/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.56</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.springframework.boot:spring-boot-test:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.6.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/com.jayway.jsonpath:json-path:jar:2.6.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/com.jayway.jsonpath:json-path:jar:2.6.0/net.minidev:json-smart:jar:2.4.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/com.jayway.jsonpath:json-path:jar:2.6.0/net.minidev:json-smart:jar:2.4.7/net.minidev:accessors-smart:jar:2.4.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/com.jayway.jsonpath:json-path:jar:2.6.0/net.minidev:json-smart:jar:2.4.7/net.minidev:accessors-smart:jar:2.4.7/org.ow2.asm:asm:jar:9.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3/jakarta.activation:jakarta.activation-api:jar:1.2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.assertj:assertj-core:jar:3.21.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.hamcrest:hamcrest:jar:2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.junit.jupiter:junit-jupiter:jar:5.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-api:jar:5.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-api:jar:5.8.2/org.opentest4j:opentest4j:jar:1.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-api:jar:5.8.2/org.junit.platform:junit-platform-commons:jar:1.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-api:jar:5.8.2/org.apiguardian:apiguardian-api:jar:1.1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-params:jar:5.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-engine:jar:5.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-engine:jar:5.8.2/org.junit.platform:junit-platform-engine:jar:1.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.mockito:mockito-core:jar:4.0.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.mockito:mockito-core:jar:4.0.0/net.bytebuddy:byte-buddy:jar:1.11.22</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.mockito:mockito-core:jar:4.0.0/net.bytebuddy:byte-buddy-agent:jar:1.11.22</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.mockito:mockito-core:jar:4.0.0/org.objenesis:objenesis:jar:3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.mockito:mockito-junit-jupiter:jar:4.0.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.springframework:spring-core:jar:5.3.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.springframework:spring-core:jar:5.3.15/org.springframework:spring-jcl:jar:5.3.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.springframework:spring-test:jar:5.3.15</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.6.3/org.xmlunit:xmlunit-core:jar:2.8.4</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.2.0</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.2.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.6.3</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.2.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.6.3/com.zaxxer:HikariCP:jar:4.0.3</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.2.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.6.3/org.springframework:spring-jdbc:jar:5.3.15</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.2.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.6.3/org.springframework:spring-jdbc:jar:5.3.15/org.springframework:spring-tx:jar:5.3.15</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.2.0/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.2.0</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.2.0/org.mybatis:mybatis:jar:3.4.2</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.2.0/org.mybatis:mybatis-spring:jar:1.3.1</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.7.22</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.7.22/org.slf4j:slf4j-api:jar:1.7.33</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.7.22/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">org.projectlombok:lombok:jar:1.16.10</node>
+            <node x="" y="">org.apache.commons:commons-lang3:jar:3.8.1</node>
+            <node x="" y="">org.postgresql:postgresql:jar:42.3.1</node>
+            <node x="" y="">org.postgresql:postgresql:jar:42.3.1/org.checkerframework:checker-qual:jar:3.5.0</node>
+            <node x="" y="">commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="" y="">com.alibaba:fastjson:jar:1.2.28</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-buffer:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-dns:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-haproxy:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-http:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-http2:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-memcache:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-mqtt:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-redis:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-smtp:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-socks:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-stomp:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-codec-xml:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-common:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-handler:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-tcnative-classes:jar:2.0.46.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-handler-proxy:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-resolver:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-resolver-dns:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-rxtx:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-sctp:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-udt:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-classes-epoll:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-native-unix-common:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-classes-kqueue:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-resolver-dns-classes-macos:jar:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-native-epoll:jar:linux-x86_64:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-native-epoll:jar:linux-aarch_64:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-native-kqueue:jar:osx-x86_64:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-transport-native-kqueue:jar:osx-aarch_64:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-resolver-dns-native-macos:jar:osx-x86_64:4.1.73.Final</node>
+            <node x="" y="">io.netty:netty-all:jar:4.1.73.Final/io.netty:netty-resolver-dns-native-macos:jar:osx-aarch_64:4.1.73.Final</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.43091394856952037" x="1345.0" y="242.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../server.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/netty/KpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/filter/PermissionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="32" column="53" lean-forward="true" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/SardineApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2350">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/thread/NettyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/ExceptionHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/config/SardineConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/config/ScheduledConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/thread/HeartbeatMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/manager/daoManager/NodeDetailInfoManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/bean/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/工程/SpringPrj/repo/org/springframework/spring-web/5.3.15/spring-web-5.3.15.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/工程/SpringPrj/repo/org/springframework/spring-web/5.3.15/spring-web-5.3.15.jar!/org/springframework/http/HttpHeaders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/context/UserContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+            <element signature="e#1808#1809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1775">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/controller/PermissionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/config/InterceptorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/manager/daoManager/UserDaoManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <folding>
+            <element signature="e#4242#4243#0" expanded="true" />
+            <element signature="e#4278#4279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/CustomException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/service/RepoDispatchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="23" column="84" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="1338" column="19" selection-start-line="1338" selection-start-column="19" selection-end-line="1338" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/service/ImageRepoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sardine/common/interceptor/AuthenticationInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>sardineCloud</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20673636" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sardineCloud</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20673636" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

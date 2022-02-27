@@ -1,0 +1,70 @@
+DELETE http://124.221.90.114:6098/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-02-27T104350.405.html
+
+###
+
+POST http://124.221.90.114:6098/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-02-27T100704.404.html
+
+###
+
+POST http://124.221.90.114:6098/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-02-27T100703.404.html
+
+###
+
+POST http://124.221.90.114:6098/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-02-27T100653.404.html
+
+###
+
+POST http://124.221.90.114:6098/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://124.221.90.114:6098/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://124.221.90.114:6098/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-02-27T124620.404.html
+
+###
+
+POST http://localhost:8080/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8080/api/v0/session?name=yinghao&password=123
+Accept: */*
+Cache-Control: no-cache
+
+###
+
